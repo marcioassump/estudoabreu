@@ -1,0 +1,33 @@
+body{
+	background-color: black;
+
+}
+li{
+	color: yellow;
+}
+p{
+	text-align: justify;
+	letter-spacing: 1px;
+	color: yellow;
+
+}
+
+#menu ul{
+	margin: 0;
+	background-color: #3385ff;
+	list-style: none;
+}
+
+#menu ul li{
+	display: inline; /*Determina que a exibição será em ma única linha*/
+}
+
+#menu ul a{
+	padding: 2px 10px; /*impõe a distancia entre o conteúdo*/
+	display: inline-block; /*Coloca o bloco em uma única linha*/
+	color: white;
+	text-decoration: none;
+}
+#menu ul li a:hover{ /*Ao passar o mouse o elemento mostra o efeito deseja de formação*/
+	color: #004400;
+}

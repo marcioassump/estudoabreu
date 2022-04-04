@@ -1,0 +1,19 @@
+/* CSS do projeto Trust */
+
+body{
+    background-color: black;
+}
+
+.contentor-global{
+    margin: 30px auto;
+    padding: 50px;
+    background-color: #EFEFEF;
+    
+}
+
+.contentor-navegacao{
+    background-image: url("../imagem/fundo.png");
+    background-repeat: repeat-x;
+    color: white;
+    padding: 10px;
+}
