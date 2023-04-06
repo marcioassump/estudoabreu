@@ -1,60 +1,67 @@
+/* CSS do projeto Trabalho de desenvolvimento web I */ 
+
 body{
-	background-color: black;
-
-}
-li{
-	color: yellow;
-}
-p{
-	text-align: justify;
-	letter-spacing: 1px;
-	color: yellow;
-
+    background-color: #777373;
 }
 
+/* Referência dos parágrafos */
 
-
-h1{
-	color:yellow;
+.p1{
+    /* Titulos dos cards */
+    margin: 05px;
+    padding: 05px;
+    font-size: 14pt;
+    text-align: center;
+    transition: width 2s;
+    color: rgb(190, 230, 126);
 }
 
-h2{
-	color:yellow;
+.pr{
+    /* Paragrafo do roda-pé */
+    font-size: 10pt;
+    
+    color: white;
+    background-color: rgb(66, 66, 66);
 }
 
-h3{
-	color:yellow;
-}
 
-h4{
-	color:yellow;
-}
-
-h5{
-	color:yellow;
-}
-
-h6{
-	color:yellow;
-}
-
-#menu ul{
-	margin: 0;
-	background-color: #e62e00;
-	list-style: none;
-}
-
-#menu ul li{
-	display: inline; /*Determina que a exibição será em ma única linha*/
-}
-
-#menu ul a{
-	padding: 2px 10px; /*impõe a distancia entre o conteúdo*/
-	display: inline-block; /*Coloca o bloco em uma única linha*/
-	color: yellow;
-	text-decoration: none;
+.pc{
+    /* Paragrafo do corpo de texto  */
+    margin: 02px;
+    padding: 02px;
+    font-size: 12pt;
+    text-indent: 10%;
+    text-align: justify;
 
 }
-#menu ul li a:hover{ /*Ao passar o mouse o elemento mostra o efeito deseja de formação*/
-	color: #004400;
+.contentor-navegacao{
+    color: white;
+    background-color: darkolivegreen;
+    padding: 10px;
+}
+
+.margem-top-20{margin-top: 20px;}
+
+.contentor-navegacao{
+    background-color: rgb(66, 66, 66);
+    color: white;
+    padding: 10px;    
+}
+
+.contentor-navegacao a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 20px;
+   
+}
+
+.contentor-navegacao a:hover{
+    text-decoration: none;
+    color: rgb(136, 255, 0);    
+}
+
+.texto-navegacao{
+    font-size: 1.2em;
+    padding: 5px;   
+    background-color: rgb(66, 66, 66);
 }
