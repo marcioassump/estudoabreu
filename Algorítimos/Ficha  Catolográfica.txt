@@ -1,0 +1,6 @@
+Autor: Martins, Paulo Roberto (org.)
+Título: Algoritmos e estrutura de dados: análise e desenvolvimento de sistemas
+Editora: Pearson Prentice Hall
+Ano: 2009.
+ISBN 978-85-7605-244-9
+Palavra Chave: 1. Algoritmos 2. Estrutura de dados (Ciência da computação) - Estudo e ensino  3. Programação (Computadores eletrônicos) I. Título.
