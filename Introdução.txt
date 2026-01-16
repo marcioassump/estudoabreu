@@ -1,3 +1,0 @@
-RJ, 16/01/26
-    A arte de programar computadores é uma tarefa que exige tempo e dedicação para ser corretamente compreendida, muitas das vezes não bastar seguir exemplos não bsta estudar, tendo em vista que a mente tem compreender  e se acustumar cm a nova forma de pensar. Tendo em vista qe não podendo desistir logo na primeira dificuldade em desenvolver o algorítimo e codificá-lo de maneir correnta e clara par aser executavel pelo compuador. O mais importande é gostar de programar, pois srá um exercício constante de paciência, dedicação e desenvolvimento próprio, aceitando os erros e corrigindo-os. (Menezes, Nilo Ney Coutinho,  Introdução à Programação com Python Algoritmos e lógica de programação  para iniciantes)
-    
