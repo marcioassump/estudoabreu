@@ -1,0 +1,67 @@
+/* CSS do projeto Trabalho de desenvolvimento web I */ 
+
+body{
+    background-color: #777373;
+}
+
+/* Referência dos parágrafos */
+
+.p1{
+    /* Titulos dos cards */
+    margin: 05px;
+    padding: 05px;
+    font-size: 14pt;
+    text-align: center;
+    transition: width 2s;
+    color: rgb(190, 230, 126);
+}
+
+.pr{
+    /* Paragrafo do roda-pé */
+    font-size: 10pt;
+    
+    color: white;
+    background-color: rgb(66, 66, 66);
+}
+
+
+.pc{
+    /* Paragrafo do corpo de texto  */
+    margin: 02px;
+    padding: 02px;
+    font-size: 12pt;
+    text-indent: 10%;
+    text-align: justify;
+
+}
+.contentor-navegacao{
+    color: white;
+    background-color: darkolivegreen;
+    padding: 10px;
+}
+
+.margem-top-20{margin-top: 20px;}
+
+.contentor-navegacao{
+    background-color: rgb(66, 66, 66);
+    color: white;
+    padding: 10px;    
+}
+
+.contentor-navegacao a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 20px;
+   
+}
+
+.contentor-navegacao a:hover{
+    text-decoration: none;
+    color: rgb(136, 255, 0);    
+}
+
+.texto-navegacao{
+    font-size: 1.2em;
+    padding: 5px;   
+    background-color: rgb(66, 66, 66);
+}
